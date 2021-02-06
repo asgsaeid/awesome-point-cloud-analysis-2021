@@ -721,7 +721,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[NIPS](https://papers.nips.cc/paper/2020/file/fc152e73692bc3c934d248f639d9e963-Paper.pdf)] MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models. [__`Compression`__]
 - [[NIPS](https://papers.nips.cc/paper/2020/file/9b72e31dac81715466cd580a448cf823-Paper.pdf)] Group Contextual Encoding for 3D Point Clouds. [__`Detection`__]
 - 
-- [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [__`Classification.`__]
+- [[ICML](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing. [[keras](https://github.com/asgsaeid/PointMask)][__`Classification.`__]
 - 
 - [[ICRA](https://arxiv.org/pdf/2003.08624.pdf)] DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. [__`seg.`__]
 - [[ICRA](https://arxiv.org/abs/1909.07137v1)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`completion.`__]
@@ -809,3 +809,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Oxford Robotcar](https://robotcar-dataset.robots.ox.ac.uk/)] The dataset captures many different combinations of weather, traffic and pedestrians. [__`cls.`__ __`det.`__ __`rec.`__]
 - [[WHU-TLS BENCHMARK](http://3s.whu.edu.cn/ybs/en/benchmark.htm)] WHU-TLS benchmark dataset. [__`reg.`__]
 - [[DALES](https://arxiv.org/abs/2004.11985)] DALES: A Large-scale Aerial LiDAR Data Set for Semantic Segmentation. [__`seg.`__] 
+- [[RobustPointSet](https://github.com/AutodeskAILab/RobustPointSet/blob/main/README.md)] A Dataset for Benchmarking Robustness of Point Cloud Classifiers. [__`cls.`__]
